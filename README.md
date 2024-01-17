@@ -14,5 +14,5 @@ Atualmente o projeto está dividido em pequenos projetos, onde cada um está exp
 
       -`cd <NomePastaCriada>`
 
-      - `npm start`
+    - `npm start`
 
