@@ -12,7 +12,7 @@ Atualmente o projeto está dividido em pequenos projetos, onde cada um está exp
 
   - Este projeto representa o primeiro código em React onde foi ensinado a criar o projeto através do comando `npx create-react-app <nomeProjeto>` após realizada toda instalação basta exexutar o comando de execução do projeto:
 
-      -`cd <NomePastaCriada>`
+    -`cd <NomePastaCriada>`
 
-    - `npm start`
+    -`npm start`
 
